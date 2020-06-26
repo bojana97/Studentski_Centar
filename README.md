@@ -19,16 +19,26 @@ Project is created with:
 ## Screenshots
 
 * Administrators login form.
+
 ![Login form](/WindowsFormsApp2/imagesForReadme/prijava.png)
+***
 
 * Main menu with search filter and CRUD functionality for student data.
+
 ![Main menu ](/WindowsFormsApp2/imagesForReadme/pocetnimeni.png)
+***
 
 * Search pavilions and rooms, view available rooms and available beds within them.
+
 ![Rooms](/WindowsFormsApp2/imagesForReadme/smjestaj.png)
+***
 
 * Search and review student contract information if exists.
+
 ![Contracts](/WindowsFormsApp2/imagesForReadme/ugovori.png)
+***
 
 * Create a new contract and automatically set its expiration date.
+
 ![New contract](/WindowsFormsApp2/imagesForReadme/noviugovor.png)
+***
